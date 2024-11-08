@@ -1,6 +1,6 @@
 ![HEADER](media/head.gif)
 ===
-<img align="right" width="40%" style="padding-top:'40px'" src="media/left-fun.png">
+<img align="right" width="40%" src="media/left-fun.png">
 
 <img align="left" width="55%" src="media/aboutme.png">
 
@@ -56,7 +56,8 @@ Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;
 <br><br>
 <img src="media/moreaboutme.png">
 <br>
-<img align="right" width="38%" style="padding-top:45px" src="media/left.png">
+
+<img align="right" width="38%"  src="media/left.png">
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/paramint/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lemondiee)
@@ -65,12 +66,12 @@ Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chaaechini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasmitbos22@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]([https://](https://www.youtube.com/channel/UCg3ocAjg3s8_X-yVV-1xOog))
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-](https://gitlab.com/chaapata)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dosatwork@proton.me)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199508294358/)
 
 
-<p style="font-size:230%;text-decoration: underline;font-weight: bold;"> MY FAV PLAYLISTS <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></p>
+
+<h1> MY FAV PLAYLISTS <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></h1>
 
 <a href="https://open.spotify.com/playlist/37i9dQZF1DX4OzrY981I1W?si=db95e093966f4267"><img src="media/mylifeisamovie.png" align="left" width="29%"></a>
 <a href="https://open.spotify.com/playlist/37i9dQZF1DX3YSRoSdA634?si=2f7aa3cddfc24c69"><img src="media/lifesucks.png" align="left" width="29%"></a>
