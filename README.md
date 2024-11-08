@@ -69,7 +69,7 @@ Contact me at [dosatwork@proton.me](mailto:dosatwork@proton.me)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199508294358/)
 
 
-<p style="font-size:230%;text-decoration: underline;font-weight: bold;"> MY FAV PLAYLISTS <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></p>
+**MY FAV PLAYLISTS** <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 
 <a href="https://open.spotify.com/playlist/37i9dQZF1DX4OzrY981I1W?si=db95e093966f4267"><img src="media/mylifeisamovie.png" align="left" width="29%"></a>
 <a href="https://open.spotify.com/playlist/37i9dQZF1DX3YSRoSdA634?si=2f7aa3cddfc24c69"><img src="media/lifesucks.png" align="left" width="29%"></a>
