@@ -5,7 +5,8 @@
 <img align="left" width="55%" src="media/aboutme.png">
 
 <p>
-Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;::after:white">Dos</a></strong> an enthusiastic and ambitious learner, not yet Graduated. But I want to soon join the guild and be one of them who brings the change✨<br>Contact me at <a href="mailto:dosatwork@proton.me" style="color:white;::after:white;">dosatwork@proton.me</a>
+Hi 👋, I am <a href="https://github.com/lemondiee" style="color:white;::after:white;font-weight:900;">Dos</a> an enthusiastic and ambitious learner, not yet Graduated. But I want to soon join the guild and be one of them who brings the change✨
+<br>Contact me at <a href="mailto:dosatwork@proton.me" style="color:white;::after:white;">dosatwork@proton.me</a>
 </p>
 
 **Languages I love coding in**: 
@@ -42,7 +43,6 @@ Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 **Extras**:
