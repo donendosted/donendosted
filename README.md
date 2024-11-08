@@ -5,7 +5,7 @@
 <img align="left" width="55%" src="media/aboutme.png">
 
 <p>
-Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;::after:white">Dos</a></strong> an enthusiastic and ambitious learner, not yet Graduated. But I want to soon join the guild and be one of them who brings the change✨  
+Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;::after:white">Dos</a></strong> an enthusiastic and ambitious learner, not yet Graduated. But I want to soon join the guild and be one of them who brings the change✨<br>Contact me at <a href="mailto:dosatwork@proton.me" style="color:white;::after:white;">dosatwork@proton.me</a>
 </p>
 
 **Languages I love coding in**: 
