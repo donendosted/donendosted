@@ -2,7 +2,7 @@
 ===
 <img align="right" width="40%" style="padding-top:'40px'" src="media/left-fun.png">
 
-<h1 style="background-image: linear-gradient(180deg, lightsteelblue, darkgoldenrod);  font-size:240%; font-weight:900;padding-top:7px;">&emsp;ABOUT ME</h1>
+<img align="left" width="55%" src="media/aboutme.png">
 
 <p>
 Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;::after:white">Dos</a></strong> an enthusiastic and ambitious learner, not yet Graduated. But I want to soon join the guild and be one of them who brings the change✨  
@@ -53,15 +53,15 @@ Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-
-<h1 style="background-image: linear-gradient(180deg, cadetblue, mediumpurple); font-size:240%; font-weight:900;padding-top:7px;">&emsp;MORE ABOUT ME</h1>
-
+<br><br>
+<img src="media/moreaboutme.png">
+<br>
 <img align="right" width="38%" style="padding-top:45px" src="media/left.png">
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/paramint/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lemondiee)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/USbw75CJ)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likemarsonearth)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likemarsonearth)<br>
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chaaechini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasmitbos22@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]([https://](https://www.youtube.com/channel/UCg3ocAjg3s8_X-yVV-1xOog))
@@ -80,4 +80,4 @@ Hi 👋, I am <strong><a href="https://github.com/lemondiee" style="color:white;
 
 ***
 <img align="right" width="25%" src="media/bottom.png">
-<h1 style="background-image: linear-gradient(300deg, orange, darkorchid); font-size:240%; font-weight:900;padding-top:7px;padding-left:20px;">That's all. Will update all these later. Have a nice day :kiss:</h1>
+<img align="left" width="70%" src="media/end.png">
