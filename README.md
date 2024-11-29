@@ -23,7 +23,6 @@ Contact me at [dosatwork@proton.me](mailto:dosatwork@proton.me)
 **OS I use**
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Win11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 **Databases**
 
