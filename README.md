@@ -1,1 +1,1 @@
-![media/head.gif]
+![header](media/head.gif)
