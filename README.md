@@ -1,27 +1,30 @@
 ![header](assets/head.webp)
 ===
+
+
+<h1 align="center">Debasmit Bose (Dos)</h1>
+<p align="center">
+Web3 Builder · Systems Curious · Kolkata, India
+</p>
+
+---
+
+## About me
+
 <img align="right" width="40%" src="assets/left.png">
 
-Hi 👋, This is **Dos** an enthusiastic kid, not yet Graduated. But I want to soon join the guild and be one of them who brings the change✨
+Engineering student at **Bankura Unnayani Institute of Engineering (2029)**.
 
-Contact me at [dosatwork@proton.me](mailto:dosatwork@proton.me)
+A builder here! Love to work on the chain and play with blocks.
 
-or, my OG work mail [debasmitbos22@gmail.com](mailto:debasmitbos22@gmail.com)
+Contact me on:
+- Gmail: [debasmitbos22@gmail.com](mailto:debasmitbos22@gmail.com)
+- X: [@donendosted](https://x.com/donendosted)
+- Linkedin: [Debasmit Bose](https://linkedin.com/in/debasmit-bose)
 
+---
 
-I am also trying to print my thumb - [please visit if you have time](about:404)
-
-## Stats
+## Wakatime :D
 
 <!--START_SECTION:waka-->
-
-```txt
-Go           1 hr 6 mins     ████████████████▓░░░░░░░░   66.34 %
-JSON         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-TypeScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-swayconfig   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-conf         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-```
-
 <!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@donendosted/d8e5e721-2a59-4658-8cae-a3f44a670d59.svg"></embed></figure>
