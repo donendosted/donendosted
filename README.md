@@ -23,8 +23,3 @@ Contact me on:
 - Linkedin: [Debasmit Bose](https://linkedin.com/in/debasmit-bose)
 
 ---
-
-## Wakatime :D
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
