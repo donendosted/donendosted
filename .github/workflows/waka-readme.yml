@@ -1,19 +1,25 @@
-name: WakaTime Stats Update
+name: Wakatime Stats
 
 on:
-  schedule:
-    # Runs at midnight UTC every day
-    - cron: '0 0 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
-    name: Update README with WakaTime Stats
+  update-readme-with-wakatime-stats:
+    name: Update README with Wakatime stats
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: athul/waka-readme@v0.3.1
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Update Wakatime Stats
+        uses: donendosted/wakatime-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TABLE_STYLE: 'default'
+          MAX_LANGUAGES: '5'
+          WAKATIME_TIME_RANGE: 'all_time'
