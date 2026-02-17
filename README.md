@@ -11,7 +11,7 @@ or, my OG work mail [debasmitbos22@gmail.com](mailto:debasmitbos22@gmail.com)
 
 I am also trying to print my thumb - [please visit if you have time](about:404)
 
-## 📊 WakaTime Stats
+## Stats
 
 <!--START_SECTION:waka-->
 
@@ -24,3 +24,4 @@ conf         1 min           ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@donendosted/d8e5e721-2a59-4658-8cae-a3f44a670d59.svg"></embed></figure>
