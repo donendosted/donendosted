@@ -22,6 +22,6 @@ Contact me on:
 - X: [@donendosted](https://x.com/donendosted)
 - Linkedin: [Debasmit Bose](https://linkedin.com/in/debasmit-bose)
 
-[CLICK HERE TO VIEW MY CURRICULUM VITAE](https://drive.google.com/file/d/1ZbZRyqNSwUcgbw7iUvkC2VkdL8uxepEQ/view?usp=drive_link)
+[CLICK HERE TO VIEW MY CURRICULUM VITAE](https://drive.google.com/drive/folders/1-gv8ztS5dVEArM5ysgLTF7KchfGa-W8J?usp=drive_link)
 
 ---
